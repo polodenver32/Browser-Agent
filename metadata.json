@@ -1,0 +1,6 @@
+{
+  "name": "Firefox Browser Agent",
+  "description": "An autonomous AI agent controlling an interactive Firefox mini-browser with real DOM inspection, stripped HTML parsing, task planning, and external command execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
